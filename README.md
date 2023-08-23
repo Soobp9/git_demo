@@ -1,3 +1,3 @@
-# git_demo
+# updated new git_demo
 ### written by Soobin Kim
-### 2023-08-23 13:41
+### 2023-08-23 :13 PM
